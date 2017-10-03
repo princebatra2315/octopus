@@ -1,0 +1,36 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+int main()
+{
+    int n,t,i,count,j,p;
+    cin>>t;
+    while(t--)
+    {
+    cin>>n;
+    int a[n];
+    int b[n];
+    for(i=0;i<n;i++)
+    cin>>a[i];
+    for(p=1;p<pow(2,n);p++)
+    {
+       i=p;
+        count=0;
+      while(i>0)
+      {
+          if(i%2==1){
+         cout<<a[count];
+         }
+         i=i>>1;
+         count++;
+      }
+     
+     cout<<endl;
+    }
+    
+    }
+  
+    
+  
+    return 0;
+}

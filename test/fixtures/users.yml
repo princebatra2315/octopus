@@ -1,0 +1,15 @@
+prince:
+  name: prince
+  email: princebatra2315@gmail.com
+  password_digest: <%= User.digest('123456') %>
+  admin: true
+  activated: true
+  activated_at: <%= Time.zone.now %>
+
+  hemant:
+  name: hemant
+  email: hemant.123@gmail.com
+  password_digest: <%= User.digest('123456') %>
+  admin: true
+  activated: true
+  activated_at: <%= Time.zone.now %>
