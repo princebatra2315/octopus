@@ -1,8 +1,11 @@
 # Octopus
 
 It is a Social media Website Just like twitter having features like 
+
 ->User Sign-Up
+
 ->User Login
+
 ->Edit Profile
 ->Follow Others
 ->Create post(text,images as well as vedios)
