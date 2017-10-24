@@ -1,6 +1,6 @@
 # Octopus
 
-It is a Social media Website Just like twitter having features like 
+It is a Social media Website similar to twitter having features like 
 
 ->User Sign-Up
 
