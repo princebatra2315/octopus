@@ -16,7 +16,7 @@ It is a Social media Website Just like twitter having features like
 
 ->Check Profile of Other User
 
-->Passwprd Encryption
+->Password Encryption
 
 ->Sending Confirmation mail
 
