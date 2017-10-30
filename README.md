@@ -22,4 +22,4 @@ It is a Social media Website Just like twitter having features like
 
 and a lot more.
 
-It is Prepared on Ruby On Rails framework.
+It is Prepared on Ruby On Rails framework .
