@@ -1,25 +1,37 @@
-# Octopus
+# Octopus | A Social media Website
 
-It is a Social media Website Just like twitter having features like 
+# Features!
 
-->User Sign-Up
+Following features are available for public use.
 
-->User Login
+  - User Authentication.
+  - Follow Other Users.
+  - Create post(text,images as well as vedios).
 
-->Edit Profile
+# Tech Stack 
 
-->Follow Others
+* Frontend: Bootstrap, JavaScript, HTML, CSS
+* Backend: Ruby On Rails
+* Databse: Postgres - SQL Database service
+* Backend Hosting: Heroku
+* Other APIs: Textlocal
 
-->Create post(text,images as well as vedios)
+### Wanna Contribute? Wanna know how to install this API on your computer? 
 
-->Admin privileges
+### Installation
+This project requires Ruby On Rails to run.
 
-->Check Profile of Other User
+Clone this repo, install the dependencies and start the server.
 
-->Passwprd Encryption
+```sh
+$ bundle install
+$ rails s
+```
 
-->Sending Confirmation mail
+### Report Bugs / Suggest new features
+To report bug or suggest a new feature, raise an issue at [Issues](https://github.com/princebatra2315/octopus/issues)
 
-and a lot more.
+# License
 
-It is Prepared on Ruby On Rails framework.
+MIT
+
